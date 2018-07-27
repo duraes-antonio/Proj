@@ -6,6 +6,9 @@
       <e p="1 - Apresentacao" t="Include" />
       <e p="2 - Dominio" t="Include" />
       <e p="3 - Infra" t="Include" />
+      <e p="Entidades/Contato.cs" t="Include" />
+      <e p="Entidades/Endereco.cs" t="Include" />
+      <e p="Entidades/Pessoa.cs" t="Include" />
       <e p="Proj.Aplicacao" t="IncludeRecursive">
         <e p="Entidades" t="Include">
           <e p="Contato.cs" t="Include" />

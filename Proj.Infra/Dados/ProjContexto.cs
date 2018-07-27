@@ -3,7 +3,7 @@ using System.IO;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
-using Proj.Dominio.Aplicacao.Entidades;
+using Proj.Aplicacao.Entidades;
 
 namespace Proj.Infra.Dados
 {

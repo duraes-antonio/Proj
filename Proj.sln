@@ -1,11 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Dominio", "2 - Dominio", "{5C676D00-E75E-4686-848F-825A70CC3853}"
-ProjectSection(SolutionItems) = preProject
-	Entidades\Contato.cs = Entidades\Contato.cs
-	Entidades\Endereco.cs = Entidades\Endereco.cs
-	Entidades\Pessoa.cs = Entidades\Pessoa.cs
-EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{723A68DF-2597-4A69-9D2B-BC19C3CB8F58}"
 EndProject

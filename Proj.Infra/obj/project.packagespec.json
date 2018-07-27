@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/media/arq/ESTUDO/ddd/Projeto/Proj.Infra/Proj.Infra.csproj",
+    "projectUniqueName": "C:\\Users\\Aevo\\Desktop\\Antonio\\Projeto\\Proj.Infra\\Proj.Infra.csproj",
     "projectName": "Proj.Infra",
-    "projectPath": "/media/arq/ESTUDO/ddd/Projeto/Proj.Infra/Proj.Infra.csproj",
-    "outputPath": "/media/arq/ESTUDO/ddd/Projeto/Proj.Infra/obj/",
+    "projectPath": "C:\\Users\\Aevo\\Desktop\\Antonio\\Projeto\\Proj.Infra\\Proj.Infra.csproj",
+    "outputPath": "C:\\Users\\Aevo\\Desktop\\Antonio\\Projeto\\Proj.Infra\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.1": {
         "projectReferences": {
-          "/media/arq/ESTUDO/ddd/Projeto/Proj.Aplicacao/Proj.Aplicacao.csproj": {
-            "projectPath": "/media/arq/ESTUDO/ddd/Projeto/Proj.Aplicacao/Proj.Aplicacao.csproj"
+          "C:\\Users\\Aevo\\Desktop\\Antonio\\Projeto\\Proj.Aplicacao\\Proj.Aplicacao.csproj": {
+            "projectPath": "C:\\Users\\Aevo\\Desktop\\Antonio\\Projeto\\Proj.Aplicacao\\Proj.Aplicacao.csproj"
           }
         }
       }

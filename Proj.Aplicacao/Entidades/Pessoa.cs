@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 
-namespace Dominio.Aplicacao.Entidades
+namespace Proj.Dominio.Aplicacao.Entidades
 {
     public class Pessoa
     {

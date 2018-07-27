@@ -1,4 +1,4 @@
-﻿namespace Dominio.Aplicacao.Entidades
+﻿namespace Proj.Dominio.Aplicacao.Entidades
 {
     public class Endereco
     {

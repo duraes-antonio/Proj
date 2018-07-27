@@ -12,7 +12,9 @@
           <e p="Endereco.cs" t="Include" />
           <e p="Pessoa.cs" t="Include" />
         </e>
+        <e p="Interfaces" t="Include" />
         <e p="Proj.Aplicacao.csproj" t="IncludeRecursive" />
+        <e p="Services" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -23,7 +25,10 @@
         </e>
       </e>
       <e p="Proj.Infra" t="IncludeRecursive">
+        <e p="Dados" t="Include" />
+        <e p="EntityConfig" t="Include" />
         <e p="Proj.Infra.csproj" t="IncludeRecursive" />
+        <e p="Repositorios" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

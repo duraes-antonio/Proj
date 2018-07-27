@@ -25,8 +25,17 @@
         </e>
       </e>
       <e p="Proj.Infra" t="IncludeRecursive">
-        <e p="Dados" t="Include" />
+        <e p="Dados" t="Include">
+          <e p="ProjContexto.cs" t="Include" />
+        </e>
         <e p="EntityConfig" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20180727030408_Inicio.Designer.cs" t="Include" />
+          <e p="20180727030408_Inicio.cs" t="Include" />
+          <e p="20180727030629_Inicio2.Designer.cs" t="Include" />
+          <e p="20180727030629_Inicio2.cs" t="Include" />
+          <e p="ProjContextoModelSnapshot.cs" t="Include" />
+        </e>
         <e p="Proj.Infra.csproj" t="IncludeRecursive" />
         <e p="Repositorios" t="Include" />
         <e p="bin" t="ExcludeRecursive" />

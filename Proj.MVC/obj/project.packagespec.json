@@ -14,7 +14,11 @@
     ],
     "frameworks": {
       "netcoreapp2.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/media/arq/ESTUDO/ddd/Projeto/Proj.Infra/Proj.Infra.csproj": {
+            "projectPath": "/media/arq/ESTUDO/ddd/Projeto/Proj.Infra/Proj.Infra.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -32,11 +36,23 @@
           "version": "[2.1.1, )",
           "autoReferenced": true
         },
+        "Microsoft.Extensions.Configuration": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.1.0, )",
           "autoReferenced": true
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "[2.1.1.1, )"
         }
       },
       "imports": [

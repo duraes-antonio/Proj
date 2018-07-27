@@ -7,8 +7,10 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Proj.Infra.Dados;
 
 namespace Proj.MVC
 {
@@ -30,8 +32,10 @@ namespace Proj.MVC
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
-
-
+            
+            // Adição do contexto do projeto e obtenção da String de conexão com o BD;
+            services.AddDbContext<ProjContexto>(options => options
+                .UseNpgsql(Configuration.GetConnectionString("ConStrPsql")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 

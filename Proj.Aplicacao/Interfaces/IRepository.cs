@@ -4,7 +4,7 @@ using System.Linq.Expressions;
 
 namespace Proj.Aplicacao.Interfaces
 {
-    public interface IRepositorio<T> where T : class
+    public interface IRepository<T> where T : class
     {
         T Adicionar(T entidade);
         

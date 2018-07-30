@@ -42,7 +42,7 @@ namespace Proj.Infra.Dados
             var connectionString = configuration.GetConnectionString("ConStrPsql");
             
             // Trecho que define a senha do banco da string de connexão acima; 
-            var senha = "=aluno";
+            var senha = "=postgres";
             connectionString = connectionString.Replace("=aluno", senha);
             
             builder.UseNpgsql(connectionString);

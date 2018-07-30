@@ -8,11 +8,11 @@ using Proj.Infra.Dados;
 
 namespace Proj.Infra.Repositorios
 {
-    public class EFRepositorio<T> : IRepositorio<T> where T : class
+    public class EFRepository<T> : IRepository<T> where T : class
     {
         private readonly ProjContexto _dbContexto;
 
-        public EFRepositorio(ProjContexto dbContexto)
+        public EFRepository(ProjContexto dbContexto)
         {
             _dbContexto = dbContexto;
         }

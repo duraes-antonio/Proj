@@ -13,8 +13,10 @@
           <e p="Pessoa.cs" t="Include" />
         </e>
         <e p="Interfaces" t="Include">
+          <e p="IContatoRepository.cs" t="Include" />
+          <e p="IEnderecoRepository.cs" t="Include" />
           <e p="IPessoaRepository.cs" t="Include" />
-          <e p="IRepositorio.cs" t="Include" />
+          <e p="IRepository.cs" t="Include" />
         </e>
         <e p="Proj.Aplicacao.csproj" t="IncludeRecursive" />
         <e p="Services" t="Include" />
@@ -38,13 +40,16 @@
           <e p="PessoaMap.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
-          <e p="20180728233117_mig2.Designer.cs" t="Include" />
-          <e p="20180728233117_mig2.cs" t="Include" />
+          <e p="20180730091328_Inicial.Designer.cs" t="Include" />
+          <e p="20180730091328_Inicial.cs" t="Include" />
           <e p="ProjContextoModelSnapshot.cs" t="Include" />
         </e>
         <e p="Proj.Infra.csproj" t="IncludeRecursive" />
         <e p="Repositorios" t="Include">
-          <e p="EFRepositorio.cs" t="Include" />
+          <e p="ContatoRepository.cs" t="Include" />
+          <e p="EFRepository.cs" t="Include" />
+          <e p="EnderecoRepository.cs" t="Include" />
+          <e p="PessoaRepository.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">

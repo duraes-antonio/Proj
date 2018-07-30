@@ -26,11 +26,11 @@ namespace Proj.Infra.EntityConfig
                 .IsRequired();
 
             builder.Property(e => e.DataNasc)
-                .HasColumnType("DATETIME")
+                .HasColumnType("TIMESTAMP")
                 .IsRequired();
             
             builder.Property(e => e.DataCadastro)
-                .HasColumnType("DATETIME")
+                .HasColumnType("TIMESTAMP")
                 .IsRequired();
 
             builder.Property(e => e.Email)

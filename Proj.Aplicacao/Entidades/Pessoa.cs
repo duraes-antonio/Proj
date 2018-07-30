@@ -6,7 +6,7 @@ namespace Proj.Aplicacao.Entidades
 {
     public class Pessoa
     {
-        public int Idewfenix { get; set; }
+        public int Id { get; set; }
         
         [Required]
         [StringLength(11)]

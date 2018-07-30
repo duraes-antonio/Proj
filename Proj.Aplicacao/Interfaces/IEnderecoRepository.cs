@@ -2,7 +2,7 @@
 
 namespace Proj.Aplicacao.Interfaces
 {
-    public interface IPessoaRepository : IRepository<Pessoa>
+    public interface IEnderecoRepository : IRepository<Endereco>
     {
     }
 }

@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Aevo\\Desktop\\Antonio\\Projeto\\Proj.Aplicacao\\Proj.Aplicacao.csproj",
+    "projectUniqueName": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Aplicacao/Proj.Aplicacao.csproj",
     "projectName": "Proj.Aplicacao",
-    "projectPath": "C:\\Users\\Aevo\\Desktop\\Antonio\\Projeto\\Proj.Aplicacao\\Proj.Aplicacao.csproj",
-    "outputPath": "C:\\Users\\Aevo\\Desktop\\Antonio\\Projeto\\Proj.Aplicacao\\obj\\",
+    "projectPath": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Aplicacao/Proj.Aplicacao.csproj",
+    "outputPath": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Aplicacao/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"

@@ -5,7 +5,10 @@ namespace Proj.Aplicacao.Entidades
     public class Contato
     {
         public int Id { get; set; }
-        
+
+        public Pessoa Pessoa { get; set; }
+        public int PessoaId { get; set; }
+
         // Melhorar: Tentar usar apenas um dos contatos por classe;
         // Usar ENUM para definir os tipos de contatos;
         

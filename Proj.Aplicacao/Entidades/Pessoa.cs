@@ -6,10 +6,10 @@ namespace Proj.Aplicacao.Entidades
 {
     public class Pessoa
     {
-        public int Id { get; set; }
+        public int Idewfenix { get; set; }
         
         [Required]
-        [MaxLength(11)]
+        [StringLength(11)]
         public string Cpf { get; set; }
         
         [Required]

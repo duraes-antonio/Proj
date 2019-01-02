@@ -6992,10 +6992,11 @@
       ]
     },
     "Npgsql/4.0.2": {
-      "sha512": "sPpinYdH+Jdq9iLFllElQ+J/h3jAnefyUxgBlwc4yz9eBezSYhj64T/u9OlX4cJRXglT3LBkwsFFY78HH4wokw==",
+      "sha512": "pSm4RVNVrjZZGQMkQVVkY5dXwxJPF8Td5eI/8AEUHiwH9N9thZRw+u+EjHzWZhi2QkajX2Zj5uD+YZZxDTDafw==",
       "type": "package",
       "path": "npgsql/4.0.2",
       "files": [
+        ".signature.p7s",
         "lib/net45/Npgsql.dll",
         "lib/net45/Npgsql.pdb",
         "lib/net45/Npgsql.xml",
@@ -7010,10 +7011,11 @@
       ]
     },
     "Npgsql.EntityFrameworkCore.PostgreSQL/2.1.1.1": {
-      "sha512": "1DWZCVXYKxl1M8uYH/h0kisItzo5pLsfeIFh6CPBEfAo0rLwErEvcUwiU6aD+w0QtHm8UD9Q46aRyMCUUcy+lQ==",
+      "sha512": "ABZmSR5tcWF2pzazM18kRyn7NDTh1H1FH/v9us4Wbqhfx3mexKfFZcK/tiqW/+62MY/orYD8jArhbePYiXsjbw==",
       "type": "package",
       "path": "npgsql.entityframeworkcore.postgresql/2.1.1.1",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll",
         "lib/netstandard2.0/Npgsql.EntityFrameworkCore.PostgreSQL.pdb",
         "npgsql.entityframeworkcore.postgresql.2.1.1.1.nupkg.sha512",
@@ -11633,11 +11635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.MVC/Proj.MVC.csproj",
+      "projectUniqueName": "/home/x/Área de Trabalho/Proj/Proj.MVC/Proj.MVC.csproj",
       "projectName": "Proj.MVC",
-      "projectPath": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.MVC/Proj.MVC.csproj",
+      "projectPath": "/home/x/Área de Trabalho/Proj/Proj.MVC/Proj.MVC.csproj",
       "packagesPath": "/home/x/.nuget/packages/",
-      "outputPath": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.MVC/obj/",
+      "outputPath": "/home/x/Área de Trabalho/Proj/Proj.MVC/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -11654,8 +11656,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Infra/Proj.Infra.csproj": {
-              "projectPath": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Infra/Proj.Infra.csproj"
+            "/home/x/Área de Trabalho/Proj/Proj.Infra/Proj.Infra.csproj": {
+              "projectPath": "/home/x/Área de Trabalho/Proj/Proj.Infra/Proj.Infra.csproj"
             }
           }
         }

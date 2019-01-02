@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Proj.-1738328691.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Proj.1111240943.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="1 - Apresentacao" t="Include" />
+      <e p="2 - Aplicacao" t="Include" />
       <e p="2 - Dominio" t="Include" />
       <e p="3 - Infra" t="Include" />
       <e p="Proj.Aplicacao" t="IncludeRecursive">
@@ -19,7 +20,6 @@
           <e p="IRepository.cs" t="Include" />
         </e>
         <e p="Proj.Aplicacao.csproj" t="IncludeRecursive" />
-        <e p="Services" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -38,11 +38,6 @@
           <e p="ContatoMap.cs" t="Include" />
           <e p="EnderecoMap.cs" t="Include" />
           <e p="PessoaMap.cs" t="Include" />
-        </e>
-        <e p="Migrations" t="Include">
-          <e p="20180730091328_Inicial.Designer.cs" t="Include" />
-          <e p="20180730091328_Inicial.cs" t="Include" />
-          <e p="ProjContextoModelSnapshot.cs" t="Include" />
         </e>
         <e p="Proj.Infra.csproj" t="IncludeRecursive" />
         <e p="Repositorios" t="Include">

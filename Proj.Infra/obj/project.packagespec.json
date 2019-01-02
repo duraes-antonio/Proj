@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Infra/Proj.Infra.csproj",
+    "projectUniqueName": "/home/x/Área de Trabalho/Proj/Proj.Infra/Proj.Infra.csproj",
     "projectName": "Proj.Infra",
-    "projectPath": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Infra/Proj.Infra.csproj",
-    "outputPath": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Infra/obj/",
+    "projectPath": "/home/x/Área de Trabalho/Proj/Proj.Infra/Proj.Infra.csproj",
+    "outputPath": "/home/x/Área de Trabalho/Proj/Proj.Infra/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.1": {
         "projectReferences": {
-          "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Aplicacao/Proj.Aplicacao.csproj": {
-            "projectPath": "/media/x/dados/ESTUDO/backend_ddd_ef_dotnet_c#/Proj/Proj.Aplicacao/Proj.Aplicacao.csproj"
+          "/home/x/Área de Trabalho/Proj/Proj.Aplicacao/Proj.Aplicacao.csproj": {
+            "projectPath": "/home/x/Área de Trabalho/Proj/Proj.Aplicacao/Proj.Aplicacao.csproj"
           }
         }
       }

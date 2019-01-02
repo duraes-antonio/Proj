@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26d3cf73-fded-41aa-9d0c-beae15c090fd" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="nav5.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/nav5/nav5.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1216">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav5.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/nav5/nav5.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="n#style#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-toolbar#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#!!top" expanded="true" />
+                <element signature="n#mat-toolbar#0;n#div#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#!!top" />
+                <element signature="n#src#0;n#img#0;n#div#0;n#mat-toolbar#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#!!top" expanded="true" />
+                <element signature="n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fam</find>
+      <find>fami</find>
+      <find>node</find>
+      <find>min</find>
+      <find>asse</find>
+      <find>boot</find>
+      <find>rel</find>
+      <find>openNav</find>
+      <find>id=</find>
+      <find>sidebarCollapse</find>
+      <find>sidebar</find>
+      <find>sidenav</find>
+      <find>mat-sidenav-content</find>
+      <find>mat-sidenav</find>
+      <find>auto</find>
+      <find>mat-drawer-inner-container</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/ui</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ui/src/index.html" />
+        <option value="$PROJECT_DIR$/ui/index.html" />
+        <option value="$PROJECT_DIR$/ui/node_modules/bootstrap/dist/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/sidebar/sidebar.component.spec.ts" />
+        <option value="$PROJECT_DIR$/ui/src/styles.css" />
+        <option value="$PROJECT_DIR$/ui/angular.json" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/navbar/navbar.component.ts" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.component.css" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.component.ts" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.component.js" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.component.html" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.js" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/nav5/nav5.component.ts" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/teste-nav/teste-nav.component.html" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/teste-nav/teste-nav.component.css" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/teste-nav/_breackpoint.scss" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/teste-nav/_theme.scss" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/teste-nav/teste-nav.component.ts" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/teste-nav/nav-item.ts" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/teste-nav/nav.service.ts" />
+        <option value="$PROJECT_DIR$/ui/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/ui/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/teste-sidebar/teste-sidebar.component.html" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/teste-sidebar/teste-sidebar.component.css" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/sidebar/sidebar.component.ts" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/sidebar/sidebar.component.html" />
+        <option value="$PROJECT_DIR$/ui/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/sidebar/sidebar.component.css" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/nav5/nav5.component.css" />
+        <option value="$PROJECT_DIR$/ui/src/app/componentes/nav5/nav5.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ui/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ui/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frontendsemangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontendsemangular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontendsemangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontendsemangular" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontendsemangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontendsemangular" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontendsemangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontendsemangular" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontendsemangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontendsemangular" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="componentes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontendsemangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontendsemangular" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="componentes" type="462c0819:PsiDirectoryNode" />
+              <item name="nav5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontendsemangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontendsemangular" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="componentes" type="462c0819:PsiDirectoryNode" />
+              <item name="sidebar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.npm/@angular-cli" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/ui/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ui/src/app/componentes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3" />
+      <recent name="$PROJECT_DIR$/ui/src/app/componentes/sidebar" />
+      <recent name="$PROJECT_DIR$/ui/src/app/componentes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.sidebar.component.html">
+    <configuration name="app.component.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontendsemangular/ui/src/app/app.component.html" />
+    <configuration name="navbar.component.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontendsemangular/ui/src/app/componentes/navbar/navbar.component.html" />
+    <configuration name="sidebar-w3.component.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontendsemangular/ui/src/app/componentes/sidebar-w3/sidebar-w3.component.html" />
+    <configuration name="sidebar.component.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontendsemangular/ui/src/app/componentes/sidebar/sidebar.component.html" />
+    <configuration name="teste-nav.component.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontendsemangular/ui/src/app/componentes/teste-nav/teste-nav.component.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.app.component.html" />
+      <item itemvalue="JavaScript Debug.sidebar.component.html" />
+      <item itemvalue="JavaScript Debug.navbar.component.html" />
+      <item itemvalue="JavaScript Debug.sidebar-w3.component.html" />
+      <item itemvalue="JavaScript Debug.teste-nav.component.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.sidebar.component.html" />
+        <item itemvalue="JavaScript Debug.teste-nav.component.html" />
+        <item itemvalue="JavaScript Debug.app.component.html" />
+        <item itemvalue="JavaScript Debug.sidebar-w3.component.html" />
+        <item itemvalue="JavaScript Debug.navbar.component.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26d3cf73-fded-41aa-9d0c-beae15c090fd" name="Default" comment="" />
+      <created>1545742919716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545742919716</updated>
+      <workItem from="1545742922395" duration="3002000" />
+      <workItem from="1545765314449" duration="1079000" />
+      <workItem from="1545768240347" duration="15083000" />
+      <workItem from="1545866420124" duration="597000" />
+      <workItem from="1545962942950" duration="7209000" />
+      <workItem from="1546036822569" duration="28934000" />
+      <workItem from="1546202737799" duration="3188000" />
+      <workItem from="1546220573421" duration="3550000" />
+      <workItem from="1546299220775" duration="21282000" />
+      <workItem from="1546386712663" duration="1575000" />
+      <workItem from="1546403532382" duration="5517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91016000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="683" y="0" width="683" height="741" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.3241491" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756888" visible="true" weight="0.3693009" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32847896" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50151974" side_tool="true" weight="0.5316045" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32252836" />
+      <window_info id="Structure" order="1" sideWeight="0.5024311" side_tool="true" weight="0.34954408" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49848023" weight="0.39384118" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.547812" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.component.ts</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ui/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="11" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/navbar/navbar.component.html" />
+    <entry file="file://$PROJECT_DIR$/ui/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/navbar/navbar.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/node_modules/bootstrap/dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/sidebar/sidebar.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/navbar/navbar.component.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.component.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.js" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.component.html" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/sidebar-w3/sidebar-w3.component.css" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/nav4/nav4.component.html" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/navbar/navbar.component.css" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/navbar/navbar.component.html" />
+    <entry file="file://$PROJECT_DIR$/ui/node_modules/@angular/material/typings/toolbar/index.metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1853" selection-start-column="1853" selection-end-column="1853" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/nav5/nav5.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/nav5/nav5.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/teste-nav/_breakpoints.scss" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/teste-nav/_theme.scss" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/teste-nav/teste-nav.component.scss" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/teste-nav/nav.service.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/teste-nav/nav-item.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/teste-nav/teste-nav.component.ts" />
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/teste-nav/teste-nav.component.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="15730" column="12" selection-start-line="15730" selection-start-column="12" selection-end-line="15730" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/node_modules/protractor/built/element.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/teste-sidebar/teste-sidebar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/teste-sidebar/teste-sidebar.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/node_modules/@angular/material/typings/list/index.metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret column="31365" selection-start-column="31365" selection-end-column="31365" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/sidebar/sidebar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/sidebar/sidebar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/sidebar/sidebar.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/nav5/nav5.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1216">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/src/app/componentes/nav5/nav5.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="n#style#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-toolbar#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#!!top" expanded="true" />
+            <element signature="n#mat-toolbar#0;n#div#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#!!top" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#mat-toolbar#0;n#mat-sidenav#0;n#mat-sidenav-container#0;n#!!top" expanded="true" />
+            <element signature="n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

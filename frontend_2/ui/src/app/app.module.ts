@@ -7,14 +7,12 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { Nav5Component } from './componentes/nav5/nav5.component';
 import { LayoutModule } from '@angular/cdk/layout';
 import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule } from '@angular/material';
-import { TesteSidebarComponent } from './componentes/teste-sidebar/teste-sidebar.component';
 import { SidebarComponent } from './componentes/sidebar/sidebar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     Nav5Component,
-    TesteSidebarComponent,
     SidebarComponent
   ],
   imports: [

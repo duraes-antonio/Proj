@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-sidebar',
@@ -8,7 +8,8 @@ import { Component, OnInit } from '@angular/core';
 
 export class SidebarComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+  }
 
   ngOnInit() {
   }
@@ -25,8 +26,14 @@ export class SidebarComponent implements OnInit {
 
   closeNav() {
     document.getElementById("mySidenav").style.width = "0";
-    document.getElementById("main").style.marginLeft= "0";
+    document.getElementById("main").style.marginLeft = "0";
     document.body.style.backgroundColor = "white";
+  }
+
+  toggle() {
+    debugger;
+    let elemento = document.getElementById("sidebar");
+    elemento.style.display = elemento.style.display == "block" ? "none" : "block";
   }
 }
 

@@ -11,5 +11,4 @@ before_script:
   - yarn global add @angular/cli
 
 script:
-  - cd frontend
   - ng build --prod
